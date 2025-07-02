@@ -1,0 +1,27 @@
+# Ignore the virtual environment directory
+venv/
+
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+
+# Ignore the SQLite database file
+# You don't want to track the database file itself in source control
+*.db
+
+# Ignore the generated JSON output file if you save it
+processed_*.json
+
+# Ignore Streamlit specific cache files
+.streamlit/
+streamlit_*/
+
+# Ignore OS generated files
+.DS_Store # macOS
+Thumbs.db # Windows
+
+# Ignore environment variables file if you create one later
+.env
+
+# If you ever used Jupyter notebooks, ignore checkpoints
+.ipynb_checkpoints/
