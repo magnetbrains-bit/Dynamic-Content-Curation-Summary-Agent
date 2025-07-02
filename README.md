@@ -234,6 +234,9 @@ See the agent's output come to life in the Streamlit dashboard.
 7.  **Streamlit Dashboard - Expanded Article:** Viewing the detailed information (Summary, Keywords, Abstract) within an expanded article section.
     <!-- Placeholder for screenshot: Streamlit dashboard with one expander open -->
     ![Screenshot 2025-07-01 065613](https://github.com/user-attachments/assets/44563d99-2071-4d4c-9220-15eca7bd0831)
+## 🎥 A Complete Walkthrough
+
+https://drive.google.com/file/d/1XuOMLRzM6eaU4tP1EcI5iie5saNIZsji/view?usp=sharing
 
 ## 🔮 Future Improvements
 
